@@ -1,0 +1,7 @@
+{
+  "name": "abdullahcam",
+  "version": "1.0.0",
+  "private": true,
+  "description": "abdullahcam Netlify media downloader frontend and API-ready functions",
+  "type": "module"
+}
